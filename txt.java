@@ -17,9 +17,5 @@ class Main {
       else {
         System.out.println("The file already exists.");
       }
-    }
-    catch(Exception e) {
-      e.getStackTrace();
-    }
-  }
+}
 }
